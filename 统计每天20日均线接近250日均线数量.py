@@ -13,6 +13,7 @@ test_ma_length_up = 20
 test_ma_length_down = 250
 
 "this is the change"
+"this is the second change"
  
 start_date = '2017-8-1'
 end_date = '2017-9-1'
