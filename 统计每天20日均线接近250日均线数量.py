@@ -2,12 +2,15 @@
 个股均线收敛统计
 '''
 # 导入函数库
+import jqdata
 import datetime,time,calendar
 import numpy as np
 import pandas as pd
 import math
 
+# 设置需要用到的参数变量
 test_ma_length_up = 20
+test_ma_length_down = 250
 
 "this is the change"
  
